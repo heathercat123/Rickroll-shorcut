@@ -1,5 +1,5 @@
 # Rickroll-shorcut
-Send this LNK file to someone to rickroll him/her/them! \
+Send this LNK file to someone to rickroll them! \
 Tip: Rename it to make it less obvious!
 
 Only works on Windows, so if your friend uses NeXTSTEP or any deriative such as MacOS, Linux, BSD, ChromeOS, MS-DOS, Minix, TempleOS, CP/M, OS/2, AmigaOS or BeOS, just send a rickroll link I guess. Even if they are on Windows, don't use this. It's garbage.
