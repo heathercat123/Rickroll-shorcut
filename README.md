@@ -1,8 +1,11 @@
+# Archived
+This is garbage. No, this isn't getting migrated to Codeberg.
+
 # Rickroll-shorcut
 Send this LNK file to someone to rickroll them! \
 Tip: Rename it to make it less obvious!
 
-Only works on Windows, so if your friend uses NeXTSTEP or any deriative such as MacOS, Linux, BSD, ChromeOS, MS-DOS, Minix, TempleOS, CP/M, OS/2, AmigaOS or BeOS, just send a rickroll link I guess. Even if they are on Windows, don't use this. It's garbage.
+Only works on Windows, so if your friend uses Unix, NeXTSTEP, macOS, Linux, BSD, ChromeOS, MS-DOS, Microsoft BASIC, Minix, TempleOS, CP/M, OS/2, AmigaOS, BeOS or Haiku, just send a rickroll link I guess. Even if they are on Windows, don't use this. It's garbage.
 
 ## Explanation
 
